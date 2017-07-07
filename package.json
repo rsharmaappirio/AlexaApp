@@ -1,0 +1,26 @@
+{
+  "name": "apps",
+  "version": "1.0.0",
+  "description": "test alexa app",
+  "main": "index.js",
+  "dependencies": {
+    "alexa-app-server": "^3.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsharmaappirio/AlexaApp.git"
+  },
+  "keywords": [
+    "alexa-app"
+  ],
+  "author": "Rohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rsharmaappirio/AlexaApp/issues"
+  },
+  "homepage": "https://github.com/rsharmaappirio/AlexaApp#readme"
+}
